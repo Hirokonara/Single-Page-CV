@@ -15,4 +15,4 @@ This project is a simple single-page CV built with HTML.
 
 ## Notes
 
-No additional dependencies are required.
+https://roadmap.sh/projects/single-page-cv
